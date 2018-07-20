@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("This is my first openwrt app !!!\n");
+	printf("This is my first openwrt app from github!!!\n");
 	return 0;
 }
