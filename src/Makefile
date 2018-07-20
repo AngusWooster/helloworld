@@ -1,7 +1,7 @@
 objs = main.o
 
-angus_app: $(objs)
-	$(CC) -o  angus_app $(objs)
+hello_world: $(objs)
+	$(CC) -o  hello_world $(objs)
 
 clean:
-	rm angus_app $(objs)
+	rm hello_world $(objs)
